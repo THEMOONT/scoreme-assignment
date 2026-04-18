@@ -1,4 +1,4 @@
-# Java Developer Support & Maintenance Assignment
+# Java Support  Assignment
 
 This repository contains solutions for the technical assignment focused on bug fixing and maintenance tasks.
 
